@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2024-09-20
+img: circus.png
+alt: image-alt
+project-date: September 2024
+client: Start Bootstrap
+category: Web Development
+description: In this project I learned about the advantages of VSCode in editing code and working with software. I installed important extensions and integrated git into VSCode.
+---

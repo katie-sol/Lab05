@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2024-09-13
+img: cake.png
+alt: image-alt
+project-date: September 2024
+client: Start Bootstrap
+category: Web Development
+description: In this project I created branches with git and I worked on those branches, I also learned how to work with Github to create commits and changes to my project.
+---

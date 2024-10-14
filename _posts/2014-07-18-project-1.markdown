@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-09-06
+img: cabin.png
+alt: image-alt
+project-date: Semptember 2024
+client: Start Bootstrap
+category: Web Development
+description: In this project I installed and set up Git, I also learned how to commit changes and work with repositories.
+---
