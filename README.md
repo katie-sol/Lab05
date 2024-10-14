@@ -64,7 +64,7 @@ This project allows you to apply practical web development skills while creating
 ## Deliverables
 Submit the URL of your GitHub Pages site below.
 
-**/Katies-site**
+**/Katiesite**
 
 ## Project Assessment
 - **Content Organization (10%)**: Content should be well-organized, with logical structuring that makes navigation intuitive.
